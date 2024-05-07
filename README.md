@@ -1,3 +1,5 @@
 # LCS (Learning Classifier System)
 <hr/>
-index.js is main file of LCS algorithm
+
+<p>index.js is main file of LCS algorithm</p>
+<p>Maze.js for XCS in MAZE</p>
